@@ -10,6 +10,7 @@ public class Main {
         System.out.println(facultyWhile(5));
     }
 
+    //This method don´t run correctly. It have to repair
     public static long facultyWhile(int num){
         long result = 1;
         long counter = 1;
