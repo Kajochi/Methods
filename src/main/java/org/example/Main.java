@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
 
         int sum = sumMethod(3,5);
-        //System.out.println(returnString(6,2));
-        //System.out.println(faculty(5));
+        System.out.println(returnString(6,2));
+        System.out.println(faculty(5));
         System.out.println(facultyWhile(5));
     }
 
